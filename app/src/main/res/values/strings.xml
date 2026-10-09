@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vishnu Pro Max</string>
+    <string name="app_tagline">Video Editor</string>
+    <string name="welcome_title">Create. Edit. Share.</string>
+    <string name="welcome_text">Your next video masterpiece starts here.</string>
+    <string name="cta_text">Start editing</string>
+</resources>
